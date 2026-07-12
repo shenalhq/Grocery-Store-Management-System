@@ -70,7 +70,7 @@ src/
 
 ---
 
-## 🏗 Object-Oriented Concepts Used
+##  Object-Oriented Concepts Used
 
 - Classes & Objects
 - Inheritance
