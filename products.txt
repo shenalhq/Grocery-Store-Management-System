@@ -1,0 +1,3 @@
+001,milk,Dairy,milko,120.5,6
+002,Apple,Fresh Produce,Green apple,25.5,25
+003,Orange,Fresh Produce,sl fruits,1.99,8

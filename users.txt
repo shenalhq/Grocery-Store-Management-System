@@ -1,0 +1,3 @@
+sales,sales123,SalesAssistant
+manager,manager123,StoreManager
+testUser,test123,SalesAssistant
