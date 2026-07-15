@@ -93,7 +93,7 @@ src/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/grocery-store-management-system.git
+git clone https://github.com/shenalhq/Grocery-Store-Management-System.git
 ```
 
 2. Open the project in NetBeans.
